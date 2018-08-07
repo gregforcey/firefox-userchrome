@@ -1,4 +1,5 @@
 *.DS_Store
+.gitattributes
 
 # BBEdit project file
 *.bbprojectd/
